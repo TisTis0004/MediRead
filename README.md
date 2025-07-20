@@ -105,5 +105,5 @@ MediRead significantly improves accessibility to complex medical literature. By 
 
 ---
 
-**Watch Demo Video** (https://drive.google.com/file/d/1GJUgor4c5EndLDVG_lv4FOMLsKPoggFc/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1GJUgor4c5EndLDVG_lv4FOMLsKPoggFc/view?usp=sharing">**Watch Demo Video**</a>
 **Contact**: fareshatahet491@outlook.com
