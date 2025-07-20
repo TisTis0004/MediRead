@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+faiss-cpu
+PyMuPDF
+langchain
+huggingface_hub
